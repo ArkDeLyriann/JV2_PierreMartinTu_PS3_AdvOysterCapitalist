@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 424.63 114.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a1f430;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #3dc800;
+      }
+
+      .cls-3 {
+        fill: #ebe2b9;
+      }
+
+      .cls-4 {
+        fill: #d7edf2;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <rect class="cls-4" x="1.5" y="1.5" width="421.63" height="111.12" rx="53.5" ry="53.5"/>
+    <rect class="cls-2" x="285.93" y="54.83" width="103.01" height="39.85"/>
+    <rect class="cls-1" x="291.34" y="59.55" width="92.03" height="30.23"/>
+    <ellipse class="cls-3" cx="337.44" cy="74.67" rx="11.31" ry="13.26"/>
+    <ellipse class="cls-2" cx="311.39" cy="72.01" rx="9.84" ry="2.83"/>
+    <rect class="cls-2" x="298.6" y="62.76" width="26.17" height="1.86" rx=".81" ry=".81"/>
+    <rect class="cls-2" x="300.45" y="79.31" width="21.62" height="1.86" rx=".81" ry=".81"/>
+    <rect class="cls-2" x="303.83" y="84.72" width="15.03" height="1.86" rx=".81" ry=".81"/>
+    <ellipse class="cls-2" cx="363.49" cy="72.07" rx="9.84" ry="2.83"/>
+    <rect class="cls-2" x="350.69" y="62.82" width="26.17" height="1.86" rx=".81" ry=".81"/>
+    <rect class="cls-2" x="352.55" y="79.37" width="21.62" height="1.86" rx=".81" ry=".81"/>
+    <rect class="cls-2" x="355.93" y="84.77" width="15.03" height="1.86" rx=".81" ry=".81"/>
+    <rect class="cls-2" x="278.21" y="42.69" width="103.01" height="39.85" transform="translate(-5.88 65.3) rotate(-11.21)"/>
+    <rect class="cls-1" x="283.6" y="47.43" width="92.03" height="30.23" transform="translate(-5.87 65.28) rotate(-11.21)"/>
+    <ellipse class="cls-3" cx="329.7" cy="62.53" rx="11.31" ry="13.26" transform="translate(-5.87 65.3) rotate(-11.21)"/>
+    <ellipse class="cls-2" cx="303.63" cy="64.99" rx="9.84" ry="2.83" transform="translate(-6.84 60.28) rotate(-11.21)"/>
+    <rect class="cls-2" x="289.22" y="55.84" width="26.17" height="1.86" rx=".81" ry=".81" transform="translate(-5.27 59.86) rotate(-11.21)"/>
+    <rect class="cls-2" x="294.3" y="72.16" width="21.62" height="1.86" rx=".81" ry=".81" transform="translate(-8.39 60.72) rotate(-11.21)"/>
+    <rect class="cls-2" x="298.73" y="77.44" width="15.03" height="1.86" rx=".81" ry=".81" transform="translate(-9.39 61.04) rotate(-11.21)"/>
+    <ellipse class="cls-2" cx="354.74" cy="54.91" rx="9.84" ry="2.83" transform="translate(-3.91 70.02) rotate(-11.21)"/>
+    <rect class="cls-2" x="340.33" y="45.77" width="26.17" height="1.86" rx=".81" ry=".81" transform="translate(-2.33 69.61) rotate(-11.21)"/>
+    <rect class="cls-2" x="345.41" y="62.08" width="21.62" height="1.86" rx=".81" ry=".81" transform="translate(-5.45 70.46) rotate(-11.21)"/>
+    <rect class="cls-2" x="349.84" y="67.37" width="15.03" height="1.86" rx=".81" ry=".81" transform="translate(-6.46 70.79) rotate(-11.21)"/>
+    <rect class="cls-2" x="266.98" y="28.37" width="103.01" height="39.85" transform="translate(9.67 139.93) rotate(-25.15)"/>
+    <rect class="cls-1" x="272.36" y="33.15" width="92.03" height="30.23" transform="translate(9.67 139.88) rotate(-25.15)"/>
+    <ellipse class="cls-3" cx="318.45" cy="48.22" rx="11.31" ry="13.26" transform="translate(9.69 139.91) rotate(-25.15)"/>
+    <ellipse class="cls-2" cx="293.74" cy="56.89" rx="9.84" ry="2.83" transform="translate(3.67 130.23) rotate(-25.15)"/>
+    <rect class="cls-2" x="277.39" y="48.3" width="26.17" height="1.86" rx=".81" ry=".81" transform="translate(6.61 128.12) rotate(-25.15)"/>
+    <rect class="cls-2" x="286.32" y="63.46" width="21.62" height="1.86" rx=".81" ry=".81" transform="translate(.8 132.38) rotate(-25.15)"/>
+    <rect class="cls-2" x="291.99" y="68.32" width="15.03" height="1.86" rx=".81" ry=".81" transform="translate(-1.04 133.85) rotate(-25.15)"/>
+    <ellipse class="cls-2" cx="340.92" cy="34.8" rx="9.84" ry="2.83" transform="translate(17.53 148.19) rotate(-25.15)"/>
+    <rect class="cls-2" x="324.57" y="26.22" width="26.17" height="1.86" rx=".81" ry=".81" transform="translate(20.47 146.07) rotate(-25.15)"/>
+    <rect class="cls-2" x="333.5" y="41.38" width="21.62" height="1.86" rx=".81" ry=".81" transform="translate(14.66 150.34) rotate(-25.15)"/>
+    <rect class="cls-2" x="339.17" y="46.23" width="15.03" height="1.86" rx=".81" ry=".81" transform="translate(12.82 151.81) rotate(-25.15)"/>
+  </g>
+</svg>

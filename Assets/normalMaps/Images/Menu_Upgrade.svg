@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 813 652">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4ddb4b;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        fill: #a1f430;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        fill: #3dc800;
+      }
+
+      .cls-6 {
+        fill: #ebe2b9;
+      }
+
+      .cls-2 {
+        fill: #a7b7bb;
+      }
+
+      .cls-3 {
+        fill: #d7edf2;
+      }
+    </style>
+  </defs>
+  <g id="Calque_5" data-name="Calque 5">
+    <rect class="cls-3" x="1.5" y="1.5" width="810" height="649" rx="74.33" ry="74.33"/>
+    <rect class="cls-2" x="588.33" y="372.5" width="187" height="187" rx="20.21" ry="20.21" transform="translate(215.83 1147.83) rotate(-90)"/>
+    <path class="cls-1" d="m683.69,401.61l-38.99,50.84c-.75.98.18,2.21,1.69,2.21l14.11.06c1.08,0,1.95.66,1.95,1.47v65.37c0,.81.88,1.47,1.96,1.47h42.25c1.08,0,1.96-.66,1.96-1.47v-65.16c0-.82.88-1.48,1.97-1.47l14.05.06c1.51,0,2.46-1.23,1.71-2.21l-39.25-51.17c-.75-.98-2.64-.98-3.39,0Z"/>
+    <rect class="cls-5" x="317.07" y="469.32" width="221.86" height="85.83"/>
+    <rect class="cls-4" x="328.71" y="479.5" width="198.22" height="65.1"/>
+    <ellipse class="cls-6" cx="428" cy="512.05" rx="24.37" ry="28.55"/>
+    <ellipse class="cls-5" cx="371.9" cy="506.33" rx="21.19" ry="6.09"/>
+    <rect class="cls-5" x="344.35" y="486.41" width="56.37" height="4" rx=".81" ry=".81"/>
+    <rect class="cls-5" x="348.35" y="522.06" width="46.55" height="4" rx=".81" ry=".81"/>
+    <rect class="cls-5" x="355.62" y="533.69" width="32.37" height="4" rx=".81" ry=".81"/>
+    <ellipse class="cls-5" cx="484.1" cy="506.45" rx="21.19" ry="6.09"/>
+    <rect class="cls-5" x="456.55" y="486.53" width="56.37" height="4" rx=".81" ry=".81"/>
+    <rect class="cls-5" x="460.55" y="522.18" width="46.55" height="4" rx=".81" ry=".81"/>
+    <rect class="cls-5" x="467.82" y="533.82" width="32.37" height="4" rx=".81" ry=".81"/>
+    <rect class="cls-5" x="300.44" y="443.18" width="221.86" height="85.83" transform="translate(-86.66 89.26) rotate(-11.21)"/>
+    <rect class="cls-4" x="312.04" y="453.4" width="198.22" height="65.1" transform="translate(-86.64 89.22) rotate(-11.21)"/>
+    <ellipse class="cls-6" cx="411.33" cy="485.91" rx="24.37" ry="28.55" transform="translate(-86.63 89.25) rotate(-11.21)"/>
+    <ellipse class="cls-5" cx="355.19" cy="491.2" rx="21.19" ry="6.09" transform="translate(-88.73 78.44) rotate(-11.21)"/>
+    <rect class="cls-5" x="324.14" y="471.51" width="56.37" height="4" rx=".81" ry=".81" transform="translate(-85.34 77.54) rotate(-11.21)"/>
+    <rect class="cls-5" x="335.09" y="506.65" width="46.55" height="4" rx=".81" ry=".81" transform="translate(-92.06 79.39) rotate(-11.21)"/>
+    <rect class="cls-5" x="344.62" y="518.03" width="32.37" height="4" rx=".81" ry=".81" transform="translate(-94.23 80.08) rotate(-11.21)"/>
+    <ellipse class="cls-5" cx="465.27" cy="469.51" rx="21.19" ry="6.09" transform="translate(-82.41 99.43) rotate(-11.21)"/>
+    <rect class="cls-5" x="434.22" y="449.81" width="56.37" height="4" rx=".81" ry=".81" transform="translate(-79.02 98.53) rotate(-11.21)"/>
+    <rect class="cls-5" x="445.17" y="484.95" width="46.55" height="4" rx=".81" ry=".81" transform="translate(-85.74 100.38) rotate(-11.21)"/>
+    <rect class="cls-5" x="454.71" y="496.33" width="32.37" height="4" rx=".81" ry=".81" transform="translate(-87.91 101.07) rotate(-11.21)"/>
+    <rect class="cls-5" x="276.26" y="412.35" width="221.86" height="85.83" transform="translate(-156.78 207.71) rotate(-25.15)"/>
+    <rect class="cls-4" x="287.84" y="422.63" width="198.22" height="65.1" transform="translate(-156.76 207.6) rotate(-25.15)"/>
+    <ellipse class="cls-6" cx="387.11" cy="455.1" rx="24.37" ry="28.55" transform="translate(-156.71 207.66) rotate(-25.15)"/>
+    <ellipse class="cls-5" cx="333.89" cy="473.76" rx="21.19" ry="6.09" transform="translate(-169.69 186.81) rotate(-25.15)"/>
+    <rect class="cls-5" x="298.67" y="455.27" width="56.37" height="4" rx=".81" ry=".81" transform="translate(-163.35 182.26) rotate(-25.15)"/>
+    <rect class="cls-5" x="317.9" y="487.92" width="46.55" height="4" rx=".81" ry=".81" transform="translate(-175.87 191.44) rotate(-25.15)"/>
+    <rect class="cls-5" x="330.11" y="498.38" width="32.37" height="4" rx=".81" ry=".81" transform="translate(-179.83 194.6) rotate(-25.15)"/>
+    <ellipse class="cls-5" cx="435.51" cy="426.18" rx="21.19" ry="6.09" transform="translate(-139.84 225.49) rotate(-25.15)"/>
+    <rect class="cls-5" x="400.29" y="407.7" width="56.37" height="4" rx=".81" ry=".81" transform="translate(-133.5 220.93) rotate(-25.15)"/>
+    <rect class="cls-5" x="419.52" y="440.35" width="46.55" height="4" rx=".81" ry=".81" transform="translate(-146.01 230.12) rotate(-25.15)"/>
+    <rect class="cls-5" x="431.72" y="450.81" width="32.37" height="4" rx=".81" ry=".81" transform="translate(-149.97 233.28) rotate(-25.15)"/>
+  </g>
+</svg>
